@@ -1,0 +1,248 @@
+[
+	{
+		"id"    :  1,
+		"title" : "Smart Bin 1",
+		"description" : "This Smart Bin is located at Lat 33.6657284 Lng: 73.0391192",
+		"info"  : {"Paper Recycled": "28 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.0391192,
+		"lat"   : 33.6657284
+	},
+	{
+		"id"    :  2,
+		"title" : "Smart Bin 2",
+		"description" : "This Smart Bin is located at Lat 33.6719516 Lng: 73.0363615",
+		"info"  : {"Paper Recycled": "21 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.0363615,
+		"lat"   : 33.6719516
+	},
+	{
+		"id"    :  3,
+		"title" : "Smart Bin 3",
+		"description" : "This Smart Bin is located at Lat 33.6702344 Lng: 73.048877",
+		"info"  : {"Paper Recycled": "2 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.048877,
+		"lat"   : 33.6702344
+	},
+	{
+		"id"    :  3,
+		"title" : "Smart Bin 3",
+		"description" : "This Smart Bin is located at Lat 33.6733854 Lng: 73.0209391",
+		"info"  : {"Paper Recycled": "16 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.0209391,
+		"lat"   : 33.6733854
+	},
+	{
+		"id"    :  4,
+		"title" : "Smart Bin 4",
+		"description" : "This Smart Bin is located at Lat 33.6729239 Lng: 73.0183883",
+		"info"  : {"Paper Recycled": "17 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.0183883,
+		"lat"   : 33.6729239
+	},
+	{
+		"id"    :  5,
+		"title" : "Smart Bin 5",
+		"description" : "This Smart Bin is located at Lat 33.6917326 Lng: 72.9968143",
+		"info"  : {"Paper Recycled": "43 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 72.9968143,
+		"lat"   : 33.6917326
+	},
+	{
+		"id"    :  6,
+		"title" : "Smart Bin 6",
+		"description" : "This Smart Bin is located at Lat 33.6746325 Lng: 72.9956395",
+		"info"  : {"Paper Recycled": "28 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 72.9956395,
+		"lat"   : 33.6746325
+	},
+	{
+		"id": 7,
+		"title": "Smart Bin 7",
+		"description": "This Smart Bin is located at Lat 33.7078992 Lng: 73.0477672",
+		"info": {
+			"Paper Recycled": "21 KG",
+			"Need a Companion Smart Bin": "Yes"
+		},
+		"img": "http://placehold.it/320x260/bbbbbb/ffffff",
+		"propertyType": "trashcan",
+		"lon": 73.0477672,
+		"lat": 33.7078992
+	},
+	{
+		"id": 8,
+		"title": "Smart Bin 8",
+		"description": "This Smart Bin is located at Lat 33.7206851 Lng: 73.0763216",
+		"info": {
+			"Paper Recycled": "20 KG",
+			"Need a Companion Smart Bin": "Yes"
+		},
+		"img": "http://placehold.it/320x260/bbbbbb/ffffff",
+		"propertyType": "trashcan",
+		"lon": 73.0763216,
+		"lat": 33.7206851
+	},
+	{
+		"id"    :  9,
+		"title" : "Smart Bin 9",
+		"description" : "This Smart Bin is located at Lat 33.720756 Lng: 73.0433994",
+		"info"  : {"Paper Recycled": "18 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.0433994,
+		"lat"   : 33.720756
+	},
+	{
+		"id"    :  10,
+		"title" : "Smart Bin 10",
+		"description" : "This Smart Bin is located at Lat 33.720879 Lng: 73.0432277",
+		"info"  : {"Paper Recycled": "19 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 73.0432277,
+		"lat"   : 33.720879
+	},
+	{
+		"id"    :  11,
+		"title" : "Smart Bin 11",
+		"description" : "This Smart Bin is located at Lat 34.0023624 Lng: 71.4823306",
+		"info"  : {"Paper Recycled": "280 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.4823306,
+		"lat"   : 34.0023624
+	},
+	{
+		"id"    :  12,
+		"title" : "Smart Bin 12",
+		"description" : "This Smart Bin is located at Lat 33.9739116 Lng: 71.4408232",
+		"info"  : {"Paper Recycled": "280 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.4408232,
+		"lat"   : 33.9739116
+	},
+	{
+		"id"    :  13,
+		"title" : "Smart Bin 13",
+		"description" : "This Smart Bin is located at Lat 33.9804696  Lng: 1.4249887,",
+		"info"  : {"Paper Recycled": "13 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.4249887,
+		"lat"   : 33.980469
+	},
+	{
+		"id"    :  14,
+		"title" : "Smart Bin 14",
+		"description" : "This Smart Bin is located at Lat 33.9581802 Lng: 71.4147416",
+		"info"  : {"Paper Recycled": "7 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.4147416,
+		"lat"   : 33.9581802
+	},
+	{
+		"id"    :  15,
+		"title" : "Smart Bin 15",
+		"description" : "This Smart Bin is located at Lat 34.0369569 Lng: 71.6171183",
+		"info"  : {"Paper Recycled": "8 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.6171183,
+		"lat"   : 34.0369569
+	},
+	{
+		"id"    :  16,
+		"title" : "Smart Bin 16",
+		"description" : "This Smart Bin is located at Lat 33.9837434 Lng: 71.42621",
+		"info"  : {"Paper Recycled": "15 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.42621,
+		"lat"   : 33.9837434
+	},
+	{
+		"id"    :  17,
+		"title" : "Smart Bin 17",
+		"description" : "This Smart Bin is located at Lat 34.0088379 Lng: 71.554950",
+		"info"  : {"Paper Recycled": "14 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.554950,
+		"lat"   : 34.0088379
+	},
+	{
+		"id"    :  18,
+		"title" : "Smart Bin 18",
+		"description" : "This Smart Bin is located at Lat 33.6036561 Lng: 72.988308",
+		"info"  : {"Paper Recycled": "26 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 72.988308,
+		"lat"   : 33.6036561
+	},
+	{
+		"id"    :  19,
+		"title" : "Smart Bin 19",
+		"description" : "This Smart Bin is located at Lat 33.96453 Lng: 71.442906",
+		"info"  : {"Paper Recycled": "35 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.442906,
+		"lat"   : 33.96453
+	},
+	{
+		"id"    :  20,
+		"title" : "Smart Bin 20",
+		"description" : "This Smart Bin is located at Lat 33.9998263 Lng: 71.483132",
+		"info"  : {"Paper Recycled": "31 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.483132,
+		"lat"   : 33.9998263
+	},
+	{
+		"id"    :  21,
+		"title" : "Smart Bin 21",
+		"description" : "This Smart Bin is located at Lat 34.0225175 Lng: 71.482812",
+		"info"  : {"Paper Recycled": "28 KG", "Need a Companion Smart Bin": "Yes"},
+		"img"   : "http://agate.readthedocs.io/en/1.6.0/_images/column_chart.svg",
+		"url"   : "#",
+		"propertyType" : "trashcan",
+		"lon"   : 71.482812,
+		"lat"   : 34.0225175
+	}
+]
